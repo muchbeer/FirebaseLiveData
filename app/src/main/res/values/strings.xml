@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseLiveData</string>
+    <string name="user_name">Username</string>
+    <string name="paragraph2">Body</string>
+    <string name="default_toolbar_title">Chat</string>
+    <string name="textHint">Text Here</string>
+    <string name="send_button_label">Send Text</string>
+</resources>
